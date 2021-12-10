@@ -1,5 +1,5 @@
 {
-  "css": "",
-  "html_head": "",
+  "css": "/*pc*/\n@media (min-width: 601px){ \n  .top-bar__page-links{ font-family: 'Merriweather', serif; font-size:16px; color:#000;}\n  .d-lg-inline { font-size: 0;}\n  .header__toggler-icon {\n    color: #ff90cd;}\n  .top-bar__nav{ color: #fff; background:#000;}\n  .header{background: #000000;}\n  .header__buttons .btn{color: #d87aae; font-size:18px;}\n  .header__search-btn{color: #39afff;}\n  .header__search-input{font-size: 16px;font-family: 'Merriweather', serif;border-radius: 0px;}\n  .header__logo {\n    max-width: 300px;\n    max-height: 170px;}\n  .top-bar a.top-bar__countdown{font-family: 'Merriweather', serif; font-size:15px;}\n \n}",
+  "html_head": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');\n</style>",
   "html_body": ""
 }

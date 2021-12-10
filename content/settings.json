@@ -1,24 +1,24 @@
 {
-  "store_id": 17212,
-  "name": "isislayne",
   "domain": "isislayne.netlify.app",
-  "short_name": "isislayne",
-  "description": "isislayne",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/isislayne",
+  "logo": "/img/uploads/logo.jpg",
+  "name": "MY BLEND",
+  "short_name": "MY BLEND",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo1.jpg",
   "country_code": "BR",
-  "repository": "ecomplus-stores/isislayne"
+  "secondary_color": "#39afff",
+  "icon": "/img/uploads/logo1.jpg",
+  "store_id": 17212,
+  "description": "MY BLEND",
+  "large_icon": "/img/uploads/logo1.jpg"
 }

@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c35128ec2d144dd4438f23ae39472cb3.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.c6d3a8ff1edcce84a021d91945c8d3d1.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.555e50a1acc59d4b3f565717b0d7d6fa.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.80fc07a4944ef4e800212079f0bdb15a.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.284aef7a75fadd6f6da73c39e8425ed6.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "MY BLEND",
+  "short_name": "MY BLEND",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "MY BLEND",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}

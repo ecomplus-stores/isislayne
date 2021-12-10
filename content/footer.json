@@ -6,10 +6,29 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "SOBRE NÓS"
+      },
+      {
+        "text": "COMO COMPRAR"
+      },
+      {
+        "text": "FORMAS DE PAGAMENTO"
+      },
+      {
+        "text": "FORMAS DE ENTREGA"
+      },
+      {
+        "text": "TROCAS E DEVOLUÇÃO"
+      },
+      {
+        "text": "POLÍTICA DE PRIVACIDADE "
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -27,7 +46,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +54,12 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }

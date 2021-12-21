@@ -2,5 +2,18 @@
   "title": "Dúvidas frequentes",
   "meta_title": "Dúvidas frequentes",
   "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "É muito fácil comprar seus produtos na My Blend.\n\nEscolha seus produtos, **clique em comprar.**\n\nApós escolher todos os produtos que deseja comprar. \n\n**Clique em Finalizar Compra**\n\n**Defina o frete de envio**\n\nConfirme seus dados para envio, confira se todos os dados estão corretos, caso falte alguma numeração ou dado para envio, o retorno e reenvio será cobrado do cliente, não nos responsabilizamos por informações incorretas ou dados faltantes.\n\n**Escolha a forma de pagamento e finalize a compra.**\n\nPronto, seu pedido será embalado para postagem.\n\n**Agora é só aguardar seu pedido chegar na sua casa.**\n\nPara correios e/ ou transportadora , após postagem a responsabilidade do cumprimento dos prazos é de responsabilidade dos mesmo.\n\nEstaremos sempre acompanhando seu pedido para que ele chegue o quanto antes para você.\n\nSe ficar com alguma dúvida estamos a disposição **[pelo whatsapp](https://web.whatsapp.com/send?phone=%2B5531972104688)** .",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }

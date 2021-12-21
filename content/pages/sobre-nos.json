@@ -2,5 +2,25 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "A My Blend surgiu em 2017, na época com outro nome, quando sua criadora deixou de trabalhar com o que era sólido, para fazer o que realmente gostava. \n\nResolveu abrir mão de sua empresa de segurança do trabalho, para investir no mercado da moda, investiu no que mais gostava, no contato com mulheres reais, com gostos e vontades diferentes, investiu sem tempo em entender as necessidades das mais variadas clientes, e entrou de cabeça no mundo da moda se apaixonando mais a cada dia. \n\n\"Muito mais que vestir, a My Blend investe em sentir\". \n\nEntregamos sua auto estima em forma de roupas!",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Muito mais que vestir, a My Blend investe em sentir.",
+      "description": "Entregamos sua auto estima em forma de roupas!"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    }
+  ]
 }

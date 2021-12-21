@@ -14,7 +14,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/bermudas?BERMUDAS",
+      "/blusas?BLUSAS",
+      "/conjuntos?CONJUNTOS",
+      "/vestidos?VESTIDOS",
+      "/copo-termico--grauz?COPO TÉRMICO ( GRAUZ)"
+    ],
     "random": 6,
     "full_width": true
   },

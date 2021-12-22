@@ -7,7 +7,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "CADASTRE-SE | MINHA CONTA | MEUS PEDIDOS"
+        "title": "CADASTRE-SE | MINHA CONTA | MEUS PEDIDOS",
+        "link": "https://www.myblend.com.br/pages/app/#/account/orders"
       }
     ],
     "phone_wpp": true,

@@ -5,14 +5,9 @@
     "color": "#f588c3"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "CADASTRE-SE | MINHA CONTA | MEUS PEDIDOS",
-        "link": "https://www.myblend.com.br/pages/app/#/account/orders"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [

@@ -20,6 +20,13 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/todosprodutos.jpg",
+      "link": "https://www.myblend.com.br/pages/todos-os-produtos",
+      "alt": "Veja todos os produtos",
+      "mobile_img": "/img/uploads/todosprodutos.jpg"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }

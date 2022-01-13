@@ -1,0 +1,13 @@
+{
+  "title": "Todos os Produtos ",
+  "meta_title": "Todos os Produtos - My Blend - Moda Feminina",
+  "meta_description": "Todos os Produtos - My Blend - Moda Feminina",
+  "sections": [
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    }
+  ],
+  "body": "Confira Todos os Produtos"
+}

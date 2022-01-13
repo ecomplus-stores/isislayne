@@ -9,7 +9,10 @@
         {
           "start": "2022-01-10T23:26:59.409Z",
           "end": "",
-          "img": "/img/uploads/apresentacao1.jpg"
+          "img": "/img/uploads/todosmyblend.jpg",
+          "link": "https://www.myblend.com.br/pages/todos-os-produtos",
+          "alt": "confira todos os produtos ",
+          "mobile_img": "/img/uploads/todosmyblendm.jpg"
         }
       ],
       "full_width": true
@@ -21,7 +24,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/todosprodutos.jpg",
+      "img": "/img/uploads/vejatodosprodutos.jpg",
       "link": "https://www.myblend.com.br/pages/todos-os-produtos",
       "alt": "Veja todos os produtos",
       "mobile_img": "/img/uploads/todosprodutos.jpg"

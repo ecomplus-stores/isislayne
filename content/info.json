@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Envio para Todo Brasil | Confira condições especiais para Betim | Contagem | Belo Horizonte"
+    "text": "Envio para Todo Brasil | Confira condições especiais para Betim | Contagem | Belo Horizonte",
+    "link": "https://www.myblend.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele suas compras no cartão "
+    "text": "Parcele suas compras no cartão ",
+    "link": "https://www.myblend.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,

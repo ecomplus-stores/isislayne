@@ -2,5 +2,15 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### Nossos contatos: \n\nlojamyblend@gmail.com\n\n[Whatsapp](https://web.whatsapp.com/send?phone=%2B5531972104688)\n\n[Instagram](https://www.instagram.com/myblendoficial/)\n\n[Facebook](https://www.facebook.com/myblendoficial/)",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
